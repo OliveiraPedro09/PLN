@@ -37,3 +37,13 @@ Johaness Gutenberg
 ```
 https://www.deutschland.de/pt-br/topic/cultura/invencao-da-impressao-tipografica-por-johannes-gutenberg
 ```
+
+Alice's Adventures
+```
+https://www.gutenberg.org/files/11/11-0.txt
+```
+
+Frankstein
+```
+https://www.gutenberg.org/files/84/84-0.txt
+```
