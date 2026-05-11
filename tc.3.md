@@ -24,8 +24,6 @@ A tokenização é amplamente utilizada em sistemas de:
 
 ---
 
----
-
 # O que é Tokenização?
 
 Tokenização é o processo de quebrar um texto em unidades menores chamadas **tokens**.
